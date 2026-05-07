@@ -10,13 +10,13 @@
 
 title: WhyK                          # the main title
 
-tagline: Meet stree lamp and fade away.  # it will display as the sub-title
+tagline: 山高万仞，只登一步.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'https://hellostreetlamp.github.io/'
+url: 'https://whyk226.github.io'
 
 author: WhyK                  # change to your full name
 
