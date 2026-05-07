@@ -4,7 +4,7 @@ date: 2026-01-01 12:00:00 +0800
 categories: [Interview, AI]
 tags: [Yann LeCun, Deep Learning, Self-Supervised Learning, World Models, FAIR]
 seo:
-  date_modified: 2026-01-01 12:00:00 +0800
+  date_modified: 2026-01-24 08:29:54 +0800
 ---
 
 ***视频链接***: https://www.youtube.com/watch?v=7u-DXVADyhc
